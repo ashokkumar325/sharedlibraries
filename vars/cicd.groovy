@@ -1,0 +1,4 @@
+def newGit
+{
+  git "$(repo)"
+}
