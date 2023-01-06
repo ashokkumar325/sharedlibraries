@@ -1,4 +1,4 @@
 def newGit
 {
-  git "$(repo)"
+  git "${repo}"
 }
